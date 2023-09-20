@@ -1,1 +1,1 @@
-# LatentSpaceCommunication-Pytorch
+# Latent Space Communication
